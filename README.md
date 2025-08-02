@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 const diego = {
   pronouns: "he" | "him",
   code: [Javascript, HTML, CSS, Java, C#, C++],
-  tools: [React, Node, Styled-Components]
+  tools: [React, Angular, Nextjs, Node, Styled-Components, Sass, TypeScript, React Router, Redux]
 }
 ```
 
