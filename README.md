@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ```javascript
 const diego = {
   pronouns: "he" | "him",
-  code: [Javascript, HTML, CSS, Java, C#, C++],
+  code: [ Javascript, HTML, CSS, Java, C#, C++ ],
   tools: [ React,
            Angular,
            Nextjs,
@@ -36,7 +36,7 @@ const diego = {
 }
 ```
 
-#### You can find me <img src="https://c.tenor.com/nP1bM8IEfrUAAAAd/tenor.gif" width="50">
+#### You can find me <img src="https://c.tenor.com/nP1bM8IEfrUAAAAd/tenor.gif" width="70">
 [![Linkedin: diego-saul-cayun-garcia](https://img.shields.io/badge/-diegosaulcayungarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-saul-cayun-garcia/)](https://www.linkedin.com/in/diego-saul-cayun-garcia/)
 
 #### How to reach me <img src="https://media.giphy.com/media/igh8bcnIkbV0vrSLhr/giphy.gif" width="80">
