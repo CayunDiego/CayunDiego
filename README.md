@@ -27,8 +27,8 @@ const diego = {
 }
 ```
 
-#### You can find me <img src="https://media.giphy.com/media/aoydQ5HRJUAbm/giphy.gif" width="50">
+#### You can find me <img src="vhttps://c.tenor.com/nP1bM8IEfrUAAAAd/tenor.gif" width="50">
 [![Linkedin: diego-saul-cayun-garcia](https://img.shields.io/badge/-diegosaulcayungarcia-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/diego-saul-cayun-garcia/)](https://www.linkedin.com/in/diego-saul-cayun-garcia/)
 
-#### How to reach me <img src="https://media.giphy.com/media/igh8bcnIkbV0vrSLhr/giphy.gif" width="70">
+#### How to reach me <img src="https://media.giphy.com/media/igh8bcnIkbV0vrSLhr/giphy.gif" width="80">
 [![](https://img.shields.io/badge/Gmail-cayun.diego.09%40gmail.com-red)](mailto:cayun.diego.09@gmail.com)
